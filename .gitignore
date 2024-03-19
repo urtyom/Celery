@@ -1,0 +1,14 @@
+app.py
+celery_app.py
+docker-compose.yml
+face_checker.py
+main.py
+request_example.py
+tasks.py
+upscale1.py
+upscale3.py
+upscaly.py
+venv
+.idea/
+__pycache__/
+config.py
